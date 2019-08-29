@@ -23,20 +23,21 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(18).pdf" style="text-decoration:none;">Deciphering the New Antisemitism</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(19).pdf" style="text-decoration:none;">Denial and Repression of Antisemitism  </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(20).pdf" style="text-decoration:none;"> Enemies for a Day: Antisemitism and Anti-Jewish Violence in Lithuania under the Tsars  </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(21).pdf" style="text-decoration:none;">Parting Ways: Jewishness and the Critique of Zionism </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(22).pdf" style="text-decoration:none;">Masters of Deception: Zionism, 9/11 and the War on Terror Hoax </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(23).pdf" style="text-decoration:none;">Messianic Religious Zionism Confronts Israeli Territorial Compromises</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(24).pdf" style="text-decoration:none;">Modernism and Zionism</a></b></li>                                                             
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(25).pdf" style="text-decoration:none;">Nation and History: Israeli Historiography between Zionism and Post-Zionism </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(26).pdf" style="text-decoration:none;">New Zionism and the foreign policy system of Israel</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(27).pdf" style="text-decoration:none;">Diaspora and Zionism in Jewish American Literature</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(28).pdf" style="text-decoration:none;">Our Promised Land: Faith and Militant Zionism in Israeli Settlements</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(29).pdf" style="text-decoration:none;">Sovereign Jews: Israel, Zionism, and Judaism</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(30).pdf" style="text-decoration:none;">The A to Z of Zionism</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(31).pdf" style="text-decoration:none;">The Dark Side of Zionism</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(32).pdf" style="text-decoration:none;">The False Prophets of Peace: Liberal Zionism and the Struggle for Palestine</a></b></li>      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(21).pdf" style="text-decoration:none;">European Muslim Antisemitism: Why Young Urban Males Say They Don't Like Jews </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(22).pdf" style="text-decoration:none;">Inside the Antisemitic Mind: The Language of Jew-Hatred in Contemporary Germany </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(23).pdf" style="text-decoration:none;">Inventing the Jew</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(24).pdf" style="text-decoration:none;">Jean-Paul Sartre and the Jewish Question</a></b></li>                                                             
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(25).pdf" style="text-decoration:none;">Jews and Leftist Politics: Judaism, Israel, Antisemitism, and Gender </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(26).pdf" style="text-decoration:none;">Jews, Antisemitism, and the Middle East</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(27).pdf" style="text-decoration:none;">Laboratory for World Destruction: Germans and Jews in Central Europe</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(28).pdf" style="text-decoration:none;">Law, Antisemitism and the Holocaust</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(29).pdf" style="text-decoration:none;">Nationalist Ideology and Anti-Semitism: the Case of Romanian Intellectuals in the 1930s</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(30).pdf" style="text-decoration:none;">Old and Dirty Gods: Religion, Antisemitism, and the Origins of Psychoanalysis</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(31).pdf" style="text-decoration:none;">On Antisemitism: Solidarity and the Struggle for Justice</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(32).pdf" style="text-decoration:none;">Peasant Violence and Antisemitism in Early
+Twentieth-Century Eastern Europe</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(33).pdf" style="text-decoration:none;">The Founding Fathers of Zionism</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(33).pdf" style="text-decoration:none;">Globalizing Race: Antisemitism and Empire in French and European Culture</a></b></li> 
  
                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(35).pdf" style="text-decoration:none;">The Myths of Zionism</a></b></li>
