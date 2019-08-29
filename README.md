@@ -64,9 +64,13 @@ Twentieth-Century Eastern Europe</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(49).pdf" style="text-decoration:none;">Jewish Perceptions of Antisemitism  </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(50).pdf" style="text-decoration:none;">Antisemitism Historically And Critically Examined</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(52).pdf" style="text-decoration:none;">Antisemitism: A Reference Handbook</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(51).pdf" style="text-decoration:none;">Antisemitism: A Reference Handbook</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(52).pdf" style="text-decoration:none;">Shylock in Germany: Antisemitism and the German Theatre from The Enlightenment to the Nazis</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(53).pdf" style="text-decoration:none;">The Catholic Church and the Jews Argentina, 1933–1945  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(54).pdf" style="text-decoration:none;">Antisemitism and Xenophobia in Germany after Unification</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(35).pdf" style="text-decoration:none;">Holy Hatred: Christianity, Antisemitism, and the Holocaust</a></b></li>
  
  
  
