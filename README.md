@@ -10,19 +10,19 @@
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(9).pdf" style="text-decoration:none;">Antisemitism: Myth and Hate from Antiquity to the Present </a></b></li>                             
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(10).pdf" style="text-decoration:none;">Notes on the Role of Antisemitism in Early Christianity</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(11).pdf" style="text-decoration:none;">Tortured Zionism: Messianism, Ambivalence, and Israel in Post-Holocaust Jewish American Literature</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(12).pdf" style="text-decoration:none;">Einstein on Politics: His Private Thoughts and Public Stands on Nationalism, Zionism, War, Peace, and the Bomb</a></b></li>
-        <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(13).pdf" style="text-decoration:none;"> Ethnic Nationalism and State Power: The Rise of Irish Nationalism, Afrikaner Nationalism and Zionism</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(11).pdf" style="text-decoration:none;">Antisemitism and Immigration in Western Europe Today - Is there a connection?</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(12).pdf" style="text-decoration:none;">Antisemitism: Its History and Causes</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(13).pdf" style="text-decoration:none;"> Anti-Zionism and Antisemitism in the Contemporary World</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(14).pdf" style="text-decoration:none;">Exiled in the Homeland: Zionism and the Return to Mandate Palestine </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(15).pdf" style="text-decoration:none;">Faith at the Crossroads: A Theological Profile of Religious Zionism </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(16).pdf" style="text-decoration:none;">The Hidden History of Zionism</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(14).pdf" style="text-decoration:none;">Are Racists Crazy? How Prejudice, Racism, and Antisemitism Became Markers of Insanity </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(15).pdf" style="text-decoration:none;">Beyond the Yellow Badge: Anti-Judaism and Antisemitism in Medieval and Early Modern Visual Culture </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(16).pdf" style="text-decoration:none;">Church, nation and race: Catholics and antisemitism in Germany and England, 1918–1945</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(17).pdf" style="text-decoration:none;">Introduction to Zionism and Israel</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(17).pdf" style="text-decoration:none;">Colonialism, Antisemitism, and Germans of Jewish Descent in Imperial Germany</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(18).pdf" style="text-decoration:none;">Israeli Exceptionalism: The Destabilizing Logic of Zionism</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(19).pdf" style="text-decoration:none;">Jewish-Israeli National Identity and Dissidence  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(20).pdf" style="text-decoration:none;">Judaism or Zionism: What Difference for the Middle East  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(18).pdf" style="text-decoration:none;">Deciphering the New Antisemitism</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(19).pdf" style="text-decoration:none;">Denial and Repression of Antisemitism  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(20).pdf" style="text-decoration:none;"> Enemies for a Day: Antisemitism and Anti-Jewish Violence in Lithuania under the Tsars  </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(21).pdf" style="text-decoration:none;">Parting Ways: Jewishness and the Critique of Zionism </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(22).pdf" style="text-decoration:none;">Masters of Deception: Zionism, 9/11 and the War on Terror Hoax </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(23).pdf" style="text-decoration:none;">Messianic Religious Zionism Confronts Israeli Territorial Compromises</a></b></li>
